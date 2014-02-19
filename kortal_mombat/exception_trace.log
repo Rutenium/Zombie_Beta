@@ -1,0 +1,168 @@
+
+
+
+
+
+kortal_mombat: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+IMAGE               sdl_blitsurface        Unhandled exception:         
+<000000000395085C>  (From SDL_WRAPPER)     External event.               Fail
+-------------------------------------------------------------------------------
+IMAGE               sdl_blitsurface                                     
+<000000000395085C>  (From SDL_WRAPPER)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+IMAGE               blitsurface @1                                      
+<000000000395085C>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @41                                            
+<0000000003950418>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000003950418>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+kortal_mombat: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         forth @1               not_after:                   
+<0000000003AB939C>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+WAVE                set_initial_position @30
+<0000000003AA0BC8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @23                                            
+<0000000003AA0418>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000003AA0418>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+kortal_mombat: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         forth @1               not_after:                   
+<0000000003912700>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+WAVE                set_initial_position @30
+<0000000003900BC8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @23                                            
+<0000000003900418>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000003900418>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+kortal_mombat: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         forth @1               not_after:                   
+<00000000038B79A0>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+WAVE                set_initial_position @30
+<0000000003890BC8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @23                                            
+<0000000003890418>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000003890418>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+kortal_mombat: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         item @2                readable:                    
+<00000000039225F0>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+BALLE               add @3                                              
+<00000000039225D8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+PERSONNAGE          shoot @13                                           
+<0000000003920C4C>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @26                                            
+<0000000003920418>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000003920418>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+kortal_mombat: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         forth @1               not_after:                   
+<0000000003A02530>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+BALLE               check_delete @5                                     
+<0000000003A02518>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+BALLE               move @13                                            
+<0000000003A02518>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @30                                            
+<0000000003A00418>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000003A00418>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+kortal_mombat: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         item @2                readable:                    
+<0000000003AB3490>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+COLLISION           zombie_balle @5                                     
+<0000000003AB34B4>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @32                                            
+<0000000003AB0418>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000003AB0418>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+kortal_mombat: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+TUPLE               integer_item @1        valid_index:                 
+<00000000037CF74C>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+BALLE               check_delete @3                                     
+<0000000003771AB0>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+BALLE               move @17                                            
+<0000000003771AB0>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @36                                            
+<0000000003770418>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000003770418>                         Routine failure.              Exit
+-------------------------------------------------------------------------------

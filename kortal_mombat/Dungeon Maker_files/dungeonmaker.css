@@ -1,0 +1,17 @@
+body { background: #ccccff; margin: 0px; padding: 0px;  }
+html, div, h1, h2, h3, h4, h5, h6, form, p, img { margin: 0px; border: 0px; padding: 0px; }
+table td, table th { padding: 0px; }
+table td img {display: block;}
+#selected { background-image: url(im/blank100.gif); border: 1px solid black; }
+.tiles td { border: 1px solid black; }
+.tiles img { background-image: url(im/blank66.gif); }
+.gridon td { border: 1px solid black; }
+.gridoff { border-collapse: collapse; }
+.gridoff td { border-collapse: collapse; border: 0px none; }
+.switches1 { background: #006699 url('im/lbbar.gif'); font-family: "Century Schoolbook", sans-serif; color: black; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; width: 112px; height: 21px; font-size: 13px; }
+.switches2 { background: #006699 url('im/lbbar.gif'); font-family: "Century Schoolbook", sans-serif; color: black; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; width: 74px; height: 21px; font-size: 13px; }
+.switches3 { background: #006699 url('im/lbbar.gif'); font-family: "Century Schoolbook", sans-serif; color: black; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; width: 36px; height: 21px; font-size: 13px; }
+.maphide { display: none; background-image: url(im/bluedot.gif); text-align: center; }
+.mapshow { background-image: url(im/bluedot.gif); text-align: center; }
+.hide { display: none; }
+.show { display: block; }
